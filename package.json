@@ -1,0 +1,11 @@
+{
+  "name": "progressApp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "v.buglov",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.12.20",
+    "react": "^17.0.2"
+  }
+}
